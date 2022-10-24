@@ -1,0 +1,11 @@
+D:\51\VISUAL BASIC\multiplesForularios\multiplesForularios\bin\Debug\multiplesForularios.exe
+D:\51\VISUAL BASIC\multiplesForularios\multiplesForularios\bin\Debug\multiplesForularios.pdb
+D:\51\VISUAL BASIC\multiplesForularios\multiplesForularios\bin\Debug\multiplesForularios.xml
+D:\51\VISUAL BASIC\multiplesForularios\multiplesForularios\obj\x86\Debug\multiplesForularios.Resources.resources
+D:\51\VISUAL BASIC\multiplesForularios\multiplesForularios\obj\x86\Debug\multiplesForularios.vbproj.GenerateResource.Cache
+D:\51\VISUAL BASIC\multiplesForularios\multiplesForularios\obj\x86\Debug\multiplesForularios.exe
+D:\51\VISUAL BASIC\multiplesForularios\multiplesForularios\obj\x86\Debug\multiplesForularios.xml
+D:\51\VISUAL BASIC\multiplesForularios\multiplesForularios\obj\x86\Debug\multiplesForularios.pdb
+D:\51\VISUAL BASIC\multiplesForularios\multiplesForularios\obj\x86\Debug\multiplesForularios.Form1.resources
+D:\51\VISUAL BASIC\multiplesForularios\multiplesForularios\obj\x86\Debug\multiplesForularios.Form2.resources
+D:\51\VISUAL BASIC\multiplesForularios\multiplesForularios\obj\x86\Debug\multiplesForularios.Form3.resources
